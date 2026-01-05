@@ -100,9 +100,10 @@ Explain:
 
 ## ✅ Submission Checklist
 
-- ### ✔ file Ahaan iiguoo dir
-- ### ✔ Github fork isoo dhex ka bacdi igusoo bush garee hadaad Awoodo
-- ### ✔ labadaa qaab mid iigusoo dir si aan u arko Insha Allah
+- ### ✔ file Ahaan iiguoo dir.
+- ### ✔ Github fork isoo dhex ka bacdi igusoo bush garee hadaad Awoodo.
+- ### ✔ labadaa qaab mid iigusoo dir si aan u arko Insha Allah.
+- ### ✔ waa muhiim github-ku mustaqbal Shahaadada lagaa eegayaa waa github iyo github collabration-ka aad samaysay.
 
 --- 
 
